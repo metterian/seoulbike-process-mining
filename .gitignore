@@ -325,6 +325,7 @@ Backup of *.doc*
 
 # Custom folders
 presentation/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -471,4 +472,29 @@ kruscal/
 pre-data/
 presentation/
 questionary/
-reference/
+
+google_lda(2020)-mecab.ipynb
+backup
+*.json
+*.txt
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
