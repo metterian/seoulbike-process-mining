@@ -317,7 +317,7 @@ Backup of *.doc*
 *.xlsx
 
 # PDF files
-*.pdf
+
 
 # Etc. file extension
 *.zip
