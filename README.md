@@ -20,7 +20,7 @@
 
 ## 소개
 - 한국품질경영학회 2019년도 추계 학술 대회, 빅데이터 분야 우수 발표 논문 수상 ([링크](https://drive.google.com/file/d/13-HRrsYMBZvLHYAhLCkqbB5Jq_ULJNc5/view?usp=sharing))
-- 최종 발표 자료 : ([링크](https://drive.google.com/file/d/114oduD2Uq79Amc4zbarR5ob3HmsPHo-N/view?usp=sharing))
+- 최종 발표 자료 ([링크](https://drive.google.com/file/d/114oduD2Uq79Amc4zbarR5ob3HmsPHo-N/view?usp=sharing))
 
 ## 프로젝트 프로세스
 <p align="center">
