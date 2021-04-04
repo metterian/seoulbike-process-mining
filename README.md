@@ -6,13 +6,13 @@
 ======================
 
 <p align="center">
-    <img alt="python-3.7.7" src="https://img.shields.io/badge/python-v3.7+-l"/>
+    <img alt="python-3.7.7" src="https://img.shields.io/badge/python-v3.7+-lightgrey?style=flat-square"/>
     <a href="https://www.ksqm.org/" target="_blank">
-        <img alt="python-3.7.7" src="https://img.shields.io/badge/prize-KoreaQualitySociety-yellow"/>
+        <img alt="python-3.7.7" src="https://img.shields.io/badge/prize-KoreaQualitySociety-yellow?style=flat-square"/>
     </a>
-    <img alt="build-working" src="https://img.shields.io/badge/docs-87%25-g"/>
-    <img alt="dependencies-up to date" src="https://img.shields.io/badge/dependencies-up to date-g"/>
-    <img alt="license" src="https://img.shields.io/github/license/metterian/redbttn-seoul-studio"/>
+    <img alt="build-working" src="https://img.shields.io/badge/docs-87%25-g?style=flat-square"/>
+    <img alt="dependencies-up to date" src="https://img.shields.io/badge/dependencies-up to date-g?style=flat-square"/>
+    <img alt="license" src="https://img.shields.io/github/license/metterian/redbttn-seoul-studio?style=flat-square"/>
 </p>
 
 
