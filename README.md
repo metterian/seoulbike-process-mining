@@ -6,7 +6,7 @@
 ======================
 
 <p align="center">
-    <img alt="python-3.7.7" src="https://img.shields.io/badge/python-v3.7+-blue"/>
+    <img alt="python-3.7.7" src="https://img.shields.io/badge/python-v3.7+-l"/>
     <a href="https://www.ksqm.org/" target="_blank">
         <img alt="python-3.7.7" src="https://img.shields.io/badge/prize-KoreaQualitySociety-yellow"/>
     </a>
