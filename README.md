@@ -10,8 +10,8 @@
     <a href="https://www.ksqm.org/" target="_blank">
         <img alt="python-3.7.7" src="https://img.shields.io/badge/prize-KoreaQualitySociety-yellow"/>
     </a>
-    <img alt="build-working" src="https://img.shields.io/badge/docs-87%25-green"/>
-    <img alt="dependencies-up to date" src="https://img.shields.io/badge/dependencies-up to date-blueviolet"/>
+    <img alt="build-working" src="https://img.shields.io/badge/docs-87%25-g"/>
+    <img alt="dependencies-up to date" src="https://img.shields.io/badge/dependencies-up to date-g"/>
     <img alt="license" src="https://img.shields.io/github/license/metterian/redbttn-seoul-studio"/>
 </p>
 
@@ -60,6 +60,6 @@
 
 ## License
 
-[![License: LGPL v3](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
+[![License: LGPL v3](https://img.shields.io/badge/License-MIT-g.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
 
 - Copyright © [SeungJun Lee](https://github.com/metterian "matterian").
