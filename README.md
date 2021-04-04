@@ -18,6 +18,35 @@
 ## 프로젝트 프로세스
 ![project process](./image/project_process.png)
 
-## Result
-### Google Play Frequency
-![](./image/playstore_freq.png)
+
+## 방법론
+#### 토픽 모델링(LDA)를 통한 어플 리뷰 분석
+> LDA(Latent Dirichlet Allocation, 잠재 디리클레 할당) 문서 속에 잠재되어 있는 다양한 주제를 추출하는 분석 기법
+1. 불용 단어 제거 후, 명사-형용사-동사 추출
+2. Document-Term Matrix 제작
+3. 추출된 단어를 토필 모델링(LDA)에 적용함
+4. 서로 상관관계가 있는 토픽을 뽑아서 분류
+
+
+
+## 분석 결과
+### 구글 플레이 어플 리뷰
+
+![lda_1](./image/lda_1.png)
+
+![lda_2](./image/lda_2.png)
+
+### 시민의견수렴 게시판
+
+![lda_3](./image/lda_3.png)
+
+![lda_4](./image/lda_4.png)
+
+### 분석 결론
+
+따릉이 자전거 이용 프로세스 전반적으로 다음과 같은 문제점이 발견되었다.
+
+![lda_result](./image/lda_result.png)
+
+![process_result](./image/process_result.png)
+
