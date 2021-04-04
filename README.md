@@ -19,7 +19,7 @@
 > 서울시 공유 자전거 따릉이의 어플리케이션 리뷰와 시민의견수렴 게시판의 게시글을 LDA 토픽 모델링 기법을 사용하여 분석한다. 분석된 결과를 O2O 서비스 기준에 맞추어 오프라인 품질과 온라인 품질로 분류 하여 문제점을 제시 한다.
 
 ## 소개
-- 한국품질경영학회 2019년도 추계 학술 대회 우수 발표 논문 수상 ([링크](https://drive.google.com/file/d/13-HRrsYMBZvLHYAhLCkqbB5Jq_ULJNc5/view?usp=sharing))
+- 한국품질경영학회 2019년도 추계 학술 대회, 빅데이터 분야 우수 발표 논문 수상 ([링크](https://drive.google.com/file/d/13-HRrsYMBZvLHYAhLCkqbB5Jq_ULJNc5/view?usp=sharing))
 - 최종 발표 자료 : ([링크](https://drive.google.com/file/d/114oduD2Uq79Amc4zbarR5ob3HmsPHo-N/view?usp=sharing))
 
 ## 프로젝트 프로세스
@@ -57,3 +57,9 @@
     <img src="./image/process_result.png" width="80%" align="middle"/>
 </p>
 
+
+## License
+
+[![License: LGPL v3](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
+
+- Copyright © [SeungJun Lee](https://github.com/metterian "matterian").
