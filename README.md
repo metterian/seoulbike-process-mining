@@ -32,21 +32,21 @@
 ## 분석 결과
 ### 구글 플레이 어플 리뷰
 
-![lda_1](./image/lda_1.png)
+<img src="./image/lda_1.png" width="80%"/>
 
-![lda_2](./image/lda_2.png)
+<img src="./image/lda_2.png" width="80%"/>
 
 ### 시민의견수렴 게시판
 
-![lda_3](./image/lda_3.png)
+<img src="./image/lda_3.png" width="80%"/>
 
-![lda_4](./image/lda_4.png)
+<img src="./image/lda_4.png" width="80%"/>
 
 ### 분석 결론
 
 따릉이 자전거 이용 프로세스 전반적으로 다음과 같은 문제점이 발견되었다.
 
-![lda_result](./image/lda_result.png)
+<img src="./image/lda_result.png" width="80%"/>
 
-![process_result](./image/process_result.png)
+<img src="./image/process_result.png" width="80%"/>
 
