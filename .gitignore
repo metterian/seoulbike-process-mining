@@ -326,6 +326,7 @@ Backup of *.doc*
 # Custom folders
 presentation/
 data/
+Instagrma-Crawling/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
